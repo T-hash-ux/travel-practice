@@ -1,1 +1,1 @@
-# travel-itenerary-project
+# travel-practice
